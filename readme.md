@@ -18,5 +18,5 @@ Las pruebas de laboratorio para virus resistentes comprenden ensayos fenotípico
 ## 3. Wet-lab
 ### 3.1 Análisis y curación de cromatogramas
 ### 3.2 Mutaciones y perfil de Resistencia a Fármacos
-#### Recall 
-#### HIV db Program
+#### a. Recall 
+#### b. HIV db Program
