@@ -1,13 +1,13 @@
 
 <h1><p style="text-align: center;"> Práctica N°15: Detección de la Farmacorresistencia del VIH </p></h1>
 
-**Curso:** Virología 2024-I<br>
+-**Curso:** Virología 2024-I<br>
 
-**Escuela:** Microbiología y Parasitología<br>  
+-**Escuela:** Microbiología y Parasitología<br>  
 
-**Profesor:** Dilan Victor Suárez Agüero<img alt="PowerBI" width="83" src="https://img.shields.io/badge/-PowerBI-yellow?style=flat-square&logo=PowerBI&logoColor=white" /><br>  
+-**Profesor:** Dilan Victor Suárez Agüero
 
-**Fecha:** 14/06/2024<br>  
+-**Fecha:** 14/06/2024<br>  
 
 ## Objetivo 
 
