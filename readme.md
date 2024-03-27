@@ -1,10 +1,14 @@
-<h1><p style="text-align: center;"># Práctica N°10: Detección de la Farmacorresistencia del VIH </p></h1>
-**Curso:** Virología 2024-I<br>
-**Escuela:** Microbiología y Parasitología<br>  
-**Profesor:** Dilan Victor Suárez Agüero<br>  
-**Fecha:** 25/05/2024<br>  
+|   [Inicio](readme.md)  |  [Fase experimental](analisis_experimental.md)  |  [Análisis bioinformático ](analisis_bioinformatico.md)  |   [Investigaciones](Investigaciones.md)  |
 
-|   [Inicio](readme.md)  |  [Fase experimental](analisis_experimental.md)  |  [Análisis bioinformático ](analisis_bioinformatico.md)  |   [Investigaciones](Investigaciones.md)  | 
+<h1><p style="text-align: center;"> Práctica N°10: Detección de la Farmacorresistencia del VIH </p></h1>
+
+**Curso:** Virología 2024-I<br>
+
+**Escuela:** Microbiología y Parasitología<br>  
+
+**Profesor:** Dilan Victor Suárez Agüero<br>  
+
+**Fecha:** 25/05/2024<br>  
 
 ## 1. Introducción
 
