@@ -1,3 +1,5 @@
+|   [Inicio](readme.md)  |  [Fase experimental](analisis_experimental.md)  |  [Aanálisis bioinformático ](analisis_bioinformatico.md)  |   [Investigaciones](Investigaciones.md)  | 
+
 # Práctica N°10: Detección de la Farmacorresistencia del VIH
 Curso: Virología 2024-I
 Escuela: Microbiología y Parasitología
