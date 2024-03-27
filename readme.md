@@ -9,9 +9,6 @@
 
 **Fecha:** 14/06/2024<br>  
 
-
-<p align="center"> <img width="600" src="img/geno.jpeg"> </p>
-
 ## Objetivo 
 
 <p style="text-align: justify;"> Determinar las mutaciones puntuales relacionadas con la resistencia a los antirretrovirales en el modelo VIH. </p>
