@@ -1,0 +1,11 @@
+name: curso_UNTRM
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - fastqc
+  - trimmomatic
+  - bowtie2
+  - ivar
+prefix: /home/dsuarezaguero/anaconda3/envs/curso_UNTRM
